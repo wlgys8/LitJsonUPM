@@ -1,0 +1,9 @@
+{
+  "name": "com.ms.litjson",
+  "displayName": "LitJson",
+  "version": "0.0.1",
+  "description": "LitJson unity package",
+  "keywords": [
+    "json"
+  ]
+}
