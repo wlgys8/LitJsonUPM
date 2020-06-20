@@ -8,7 +8,7 @@ Litjson的Unity Package 封装，方便在项目中引用
 
 in `Packages/manifest.json`, add:
 
-    "com.ms.litjson":"http://192.168.2.240/zilch/unity/LitJson.git"
+    "com.ms.litjson":"https://github.com/wlgys8/LitJsonUPM.git"
 
 # Attention
 
